@@ -6,6 +6,7 @@ layout: default
 ---
 
 # Introducing...
+<p style="font-family:Melawati; font-size:40px">Oddity</p>
 
 The Melawati Modular Oddity!
 
