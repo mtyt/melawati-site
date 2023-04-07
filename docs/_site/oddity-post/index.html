@@ -23,7 +23,7 @@
 {"@context":"https://schema.org","@type":"BlogPosting","dateModified":"2023-03-20T00:00:00+01:00","datePublished":"2023-03-20T00:00:00+01:00","description":"At the beginning of this year, my friend drew an idea for a eurorack modular synth module on the back of a coaster and asked if I could make it. The idea was to take a trigger signal (a kind of digital signal which triggers a sound on another module) and to send it to one of eight outputs, based on 3 levels of random A/B decisions, where the probability of A/B can be set by a potentiometer. A bit like a Galton board, except that the distribution is uniform if the A/B probability is set to 50% at each decision. A module that does one such A/B decision already exists under the name of a Bernoulli Gate. However, we would need 7 such Bernoulli gates (1+2+4) to end up with 8 outputs. I first experimented a bit with 555 timers and flipflops to create one Bernoulli gate, but quickly realized I’d need way too many components to make it economical. So in the end I decided to go for the microprocessor approach. Having never before programmed a microprocessor, but remembering from my student years the Microchip brand, I ordered a few PIC16 controllers with enough analog inputs for the potentiometers and enough outputs. After struggling a bit in C because of implicit type conversions and the very limited memory available on the microprocessor, I finally managed to get it to work. I designed a prototype PCB and my friend designed a faceplate, which we also had printed on PCB. This is what that first prototype looks like:","headline":"Oddity: a Eurorack Modular Synth Module","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/melawati-site/oddity-post/"},"publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/melawati-site/assets/img/logo.jpeg"}},"url":"http://localhost:4000/melawati-site/oddity-post/"}</script>
 <!-- End Jekyll SEO tag -->
 
-    <link rel="stylesheet" href="/melawati-site/assets/css/style.css?v=03c79c9d523cddde5b63e957a5554a811a63d250">
+    <link rel="stylesheet" href="/melawati-site/assets/css/style.css?v=78390eff98162345efb7b35620135c293111f054">
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
@@ -42,10 +42,8 @@
   <body>
     <div class="wrapper">
       <header>
+        <p style="font-family:Melawati; font-size:50px">melawati</p>
         <h1><a href="http://localhost:4000/melawati-site/">Melawati Modular</a></h1>
-
-        
-          <img src="/melawati-site/assets/img/logo.jpeg" alt="Logo" />
         
 
         <p>Modular Synth - Made in Belgium</p>

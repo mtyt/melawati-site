@@ -1,7 +1,7 @@
 ---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
+# width="560" height="315"
 layout: default
 ---
 
@@ -29,4 +29,6 @@ mess up your patch and route outputs to outputs. Just in case.
 start inputting signals with extremely high clock rates, things will get funky.
 
 ## Videos
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LshBUvlg3gQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div class="video-container">
+<iframe src="https://www.youtube.com/embed/LshBUvlg3gQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
