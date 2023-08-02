@@ -22,9 +22,9 @@ title: Melawati Modular
 email: maarten.tytgat@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Modular Synth - Made in Belgium
-baseurl: "/melawati-site" # the subpath of your site, e.g. /blog
-domain: mtyt.github.io
-url: "https://mtyt.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+domain: www.melawatimodular.com
+url: "https://www.melawatimodular.com" # the base hostname & protocol for your site, e.g. http://example.com
 logo: /assets/img/logo.jpeg
 show_downloads: false
 instagram_username: melawatimodular
