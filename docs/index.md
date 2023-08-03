@@ -26,17 +26,21 @@ Additional features:
 
 2. Pattern mode: Bypass all knobs and instead play the last 16 gates on a loop. You can set the pattern size \[2-3-4-5-6-7-8-16\] during play using the rotary switch on the top left. The control for pattern mode is a 3 way switch which lets you read the pattern, bypass the pattern (but not overwrite it), or overwrite to the pattern. So you can lock the perfect groove, go back to chaos for fills and freakyness, but fall back to the previously saved pattern. The ideal groovebox.
 
-## Pre-order now!
-Currently preparing for mass production. Pre-order now by sending an email to...
+## [Pre-order now](mailto:melawatimodular@gmail.com)!
+We are currently ordering parts and sending the PCBs out for production.
+You can already pre-order a sweet Oddity module of the first batch for EUR 289.00 (+shipping)
+by [sending us an email (melawatimodular@gmail.com)!](mailto:melawatimodular@gmail.com)
+
+We will give you payment details and let you know when we can ship the module.
+<div class="video-container">
+<iframe src="https://drive.google.com/file/d/1FSJEjaDIyNVwu5K3IIR1cOkFSme4CK9F/preview" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+<br>
+
 
 ## Nerdy tech-talk and specs:
 - The input is zener-diode protected and will limit any incoming voltage to 0-5V.
 - The outputs are protected by diodes in order to protect the internal circuits if you
 mess up your patch and route outputs to outputs. Just in case.
 - The signals are processes by a microcontroller. It doesn't have infinite speed so if you
-start inputting signals with extremely high clock rates, things will get funky.
-
-## Videos
-<div class="video-container">
-<iframe src="https://www.youtube.com/embed/LshBUvlg3gQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
+start inputting signals with extremely high clock rates, things will get funky - but funky is nice.
