@@ -28,7 +28,7 @@ Additional features:
 
 ## [Pre-order now](mailto:melawatimodular@gmail.com)!
 We are currently ordering parts and sending the PCBs out for production.
-You can already pre-order a sweet Oddity module of the first batch for EUR 289.00 (+shipping)
+You can already pre-order a sweet Oddity module of the first batch for EUR 289.00 incl. VAT (+shipping)
 by [sending us an email (melawatimodular@gmail.com)!](mailto:melawatimodular@gmail.com)
 
 We will give you payment details and let you know when we can ship the module.
