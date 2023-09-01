@@ -26,9 +26,9 @@ Additional features:
 
 2. Pattern mode: Bypass all knobs and instead play the last 16 gates on a loop. You can set the pattern size \[2-3-4-5-6-7-8-16\] during play using the rotary switch on the top left. The control for pattern mode is a 3 way switch which lets you read the pattern, bypass the pattern (but not overwrite it), or overwrite to the pattern. So you can lock the perfect groove, go back to chaos for fills and freakyness, but fall back to the previously saved pattern. The ideal groovebox.
 
-## [Pre-order now](mailto:melawatimodular@gmail.com)!
-We are currently ordering parts and sending the PCBs out for production.
-You can already pre-order a sweet Oddity module of the first batch for EUR 289.00 incl. VAT (+shipping)
+## [Order now](mailto:melawatimodular@gmail.com)!
+We are currently assembling the very first series of Oddity modules in our attic workshop.
+You can already order a sweet Oddity module of the first batch for EUR 289.00 incl. VAT (+shipping)
 by [sending us an email (melawatimodular@gmail.com)!](mailto:melawatimodular@gmail.com)
 
 We will give you payment details and let you know when we can ship the module.
@@ -39,6 +39,8 @@ We will give you payment details and let you know when we can ship the module.
 
 
 ## Nerdy tech-talk and specs:
+- The module width is 20 HP (101.6 mm), depth is about 25 mm
+- Power through the 10-pin standard connector. We used a shrouded header for your convenience! We'll even ship you the cable (if we don't forget)
 - The input is zener-diode protected and will limit any incoming voltage to 0-5V.
 - The outputs are protected by diodes in order to protect the internal circuits if you
 mess up your patch and route outputs to outputs. Just in case.
